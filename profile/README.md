@@ -1,4 +1,4 @@
-## Greatings 👋
+## Greetings 👋
 
 Welcome to the HelioCloud:  An open-source, cloud-base analytics and data platform for empowering heliophysics research. You probably came here by way of our public site https://heliocloud.org,  but if not we suggest you stop there first and take a look around.
 
