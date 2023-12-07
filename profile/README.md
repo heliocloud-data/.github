@@ -8,5 +8,5 @@ Like other great open-souce projects, we've chosen to host the HelioCloud codeba
 ## TODO:  Sections we will be adding
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - Did you know Sandy is a game designer?  Did you know Parker Solar Probe is the fastest object ever built by humans?
+🍿 Fun facts - Did you know Sandy is a game designer?
 
